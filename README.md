@@ -10,13 +10,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0001-two-sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
