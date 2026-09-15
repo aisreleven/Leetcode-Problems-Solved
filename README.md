@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
