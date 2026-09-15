@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
