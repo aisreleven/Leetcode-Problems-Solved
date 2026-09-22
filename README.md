@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
