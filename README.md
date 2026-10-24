@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
@@ -59,7 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/2643-row-with-maximum-ones) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aisreleven/Leetcode-Problems-Solved/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
